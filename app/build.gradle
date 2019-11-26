@@ -2,9 +2,9 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 25
-    buildToolsVersion '26.0.2'
     defaultConfig {
-        applicationId "com.sf.DarkCalculator"
+        //applicationId "com.sf.DarkCalculator"
+        applicationId "com.astv.www"
         minSdkVersion 11
         targetSdkVersion 25
         versionCode 15
